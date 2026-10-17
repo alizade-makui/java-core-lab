@@ -9,5 +9,4 @@ public class JavaCoreLabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JavaCoreLabApplication.class, args);
 	}
-
 }
